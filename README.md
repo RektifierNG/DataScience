@@ -1,5 +1,7 @@
 # Data Science
 
+This repository contains the code demonstrated in the YouTube tutorial series Data Science with R 
+
 # Videos
 
 <ul>
