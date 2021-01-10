@@ -2,7 +2,7 @@
 
 This repository contains the code demonstrated in the YouTube tutorial series Data Science with R 
 
-# Videos
+# Introduction to Data Science
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=2Uga73o30Rs">Data Science with R - What is Data Science </a></li>
