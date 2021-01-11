@@ -26,4 +26,6 @@ This repository contains the code demonstrated in the YouTube tutorial series Da
   <li><a href="https://gitlab.com/joalduk/data-science">GitLab </a></li>
   <li><a href="https://gitbucket.herokuapp.com/zoraniv/DataScience">GitBucket </a></li>
   <li><a href="https://notabug.org/zoraniv/DataScience/wiki/Data+Science">NotABug </a></li>
+  <li><a href="https://codeberg.org/zoraniv/DataScience/wiki/Data-Science">CodeBerg </a></li>
+  
 </ul>
